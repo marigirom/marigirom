@@ -1,4 +1,3 @@
-Sure! Here's your updated GitHub README in markdown format, with references to full-stack development removed:
 
 ```markdown
 # Hi, I’m Marigi Romars
