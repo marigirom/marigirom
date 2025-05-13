@@ -3,7 +3,7 @@ Sure! Here's your updated GitHub README in markdown format, with references to f
 ```markdown
 # Hi, I’m Marigi Romars
 
-I am a **Software Engineer** with a strong interest in **Data Science** and **Artificial Intelligence**. I'm currently expanding my skills in these areas through both study and hands-on projects.
+I am a Software Engineer with a strong interest in Data Science and Artificial Intelligence. Currently expanding my skills in these areas through both study and hands-on projects.
 
 ## 👨‍💻 About Me
 - I am focused on building data-driven and intelligent software solutions.
@@ -20,8 +20,7 @@ I am a **Software Engineer** with a strong interest in **Data Science** and **Ar
 
 ## Reach me through
 - **Email**: romarsmarigi@gmail.com  
-- **LinkedIn**: [linkedin.com/in/marigiromars](https://linkedin.com/in/marigiromars)  
-- **GitHub**: [github.com/MarigiRomars](https://github.com/MarigiRomars)
+- **LinkedIn**: https://www.linkedin.com/in/romars-marigi-299a3a240/  
 ```
 
 Let me know if you’d like to add a profile banner, GitHub stats, or project sections next!
