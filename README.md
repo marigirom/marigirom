@@ -18,8 +18,8 @@ I am a Software Engineer with a strong interest in Data Science and Artificial I
 - Software development involving analytics or automation
 
 ## Reach me through
-- **Email**: romarsmarigi@gmail.com  
-- **LinkedIn**: https://www.linkedin.com/in/romars-marigi-299a3a240/  
+- Email: romarsmarigi@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/romars-marigi-299a3a240/  
 ```
 
 Let me know if you’d like to add a profile banner, GitHub stats, or project sections next!
