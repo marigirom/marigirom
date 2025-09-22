@@ -1,7 +1,7 @@
 
 ```markdown
 #
-A Software Engineer with a strong interest in Data Science and AI.
+A Software Engineer with a strong interest in Software devlopment and AI.
 ## About
 I am focused on building data-driven and intelligent software solutions.
 Studying AI concepts and their practical applications in modern software systems.
