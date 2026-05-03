@@ -12,5 +12,5 @@ Studying AI concepts and their practical applications in modern software systems
 
 ## Reach me through
 - Email: romarsmarigi@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/romars-marigi-299a3a240/  
+ 
 ```
